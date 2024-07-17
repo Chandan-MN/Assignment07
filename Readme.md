@@ -25,7 +25,7 @@ This is a Flask application that allows users to sign up, sign in, and access a 
 ## Project Structure
 
 ```
-lab07/
+Assignment07/
 ├── app.py
 ├── init_db.py
 ├── models.py
@@ -45,7 +45,7 @@ lab07/
 
 ```bash
 git clone <repository-url>
-cd lab07
+cd Assignment07
 ```
 
 ### 2. Create and activate a virtual environment
